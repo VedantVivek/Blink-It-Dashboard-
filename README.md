@@ -45,7 +45,7 @@
   
   - Total Sales
   - Average Sales
-  - No. Of Items
+  - Number Of Items Sold
   - Average Rating
     
   **CHART VISUALS USED**
