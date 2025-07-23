@@ -30,22 +30,23 @@
 
 **GOAL OF THE DASHBOARD :**
 
--To create a visually rich and interactive dashboard that:
- - Tracks total and average sales across outlets.
+- To create a visually rich and interactive dashboard that:
+  - Tracks total and average sales across outlets.
  
- - Measures performance by item fat content, type, and customer preferences.
+  - Measures performance by item fat content, type, and customer preferences.
  
- - Evaluates outlet effectiveness based on size, location, and age.
+  - Evaluates outlet effectiveness based on size, location, and age.
  
- - Supports data-driven decisions across marketing, inventory, and operations.
+  - Supports data-driven decisions across marketing, inventory, and operations.
 
 **KEY VISUALS USED :**
+ 
   **KPI'S(KEY PERFORMANCE INDICATORS)**
     - Total Sales
-    - Average Sales
-    - Number of Items Sold
-    - Average Customer Rating
-
+    -Average Sales
+    -No.Of Items
+    -Average Rating
+    
   **CHART VISUALS USED**
     - **Total Sales by Fat Content**
       A donut chart that displays the proportion of total sales categorized by the fat content of items. Helps analyze which fat categories drive more revenue.
