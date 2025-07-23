@@ -79,4 +79,6 @@
    - Performance Tracking: Quickly identify top-performing outlets and item categories.
 
  **VIEW OF MY DASHBOARD**
- ![DASHBOARD PREVIEW](https://github.com/VedantVivek/Blink-It-Dashboard-/raw/main/Snapshot%20of%20the%20dashboard.png)
+<p align="center">
+  <img src="https://github.com/VedantVivek/Blink-It-Dashboard-/raw/main/Snapshot%20of%20the%20dashboard.png" alt="DASHBOARD PREVIEW" width="800"/>
+</p>
