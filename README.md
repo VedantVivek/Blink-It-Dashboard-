@@ -1,12 +1,13 @@
-<h2 align="center"><b>BLINKIT SALES DASHBOARD</b></h2>
+<h1 align="center">Blinkit Sales Dashboard using Power BI</h1>
+
+<p align="center">
+An interactive Power BI dashboard that analyzes Blinkit's sales performance, customer satisfaction, and outlet distribution. <br>
+Designed to uncover business opportunities through dynamic KPIs, DAX insights, and visual storytelling.
+</p>
 
 **SHORT DESCRIPTION :**
 
-- An interactive Power BI dashboard designed to analyze Blinkit’s sales performance, customer satisfaction, and outlet distribution. It offers deep insights using dynamic KPIs and visualizations to drive informed business decisions.
-
-**PURPOSE :**
-
-- The Blinkit Sales Performance Dashboard provides a visual analytics platform for understanding item sales trends, outlet performance, customer ratings, and other operational metrics. Built with a focus on business optimization and actionable insights, it supports strategic decisions in retail and supply chain operations.
+- This Power BI dashboard project offers a visual, data-driven analysis of Blinkit's operations across products and outlets. It leverages calculated metrics, sales patterns, and customer ratings to support business optimization.
 
 **TECHONOLOGIES USED TO BUILD :** 
 
