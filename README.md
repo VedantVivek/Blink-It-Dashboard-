@@ -41,7 +41,6 @@
 
 **KEY VISUALS USED :**
   **KPI'S(KEY PERFORMANCE INDICATORS)**
-  
     - Total Sales
     - Average Sales
     - Number of Items Sold
