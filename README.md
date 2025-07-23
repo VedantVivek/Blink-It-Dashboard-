@@ -1,7 +1,6 @@
-----------------------------------BLINK IT SALES PERFORMANCE DASHBOARD------------------------------------------------
+----------------------------------**BLINK IT SALES PERFORMANCE DASHBOARD**------------------------------------------------
 
 **SHORT DESCRIPTION :**
-
 - An interactive Power BI dashboard designed to analyze Blinkit’s sales performance, customer satisfaction, and outlet distribution. It offers deep insights using dynamic KPIs and visualizations to drive informed business decisions.
 
 **PURPOSE :**
