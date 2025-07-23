@@ -9,7 +9,7 @@ Designed to uncover business opportunities through dynamic KPIs, DAX insights, a
 
 - This Power BI dashboard project offers a visual, data-driven analysis of Blinkit's operations across products and outlets. It leverages calculated metrics, sales patterns, and customer ratings to support business optimization.
 
-**TECHONOLOGIES USED TO BUILD :** 
+**TECHNOLOGIES USED TO BUILD :** 
 
 - Power BI Desktop – Main platform for dashboard creation and interactivity.
 - Power Query Editor – Used for data cleaning and transformation before modeling.
@@ -42,7 +42,7 @@ Designed to uncover business opportunities through dynamic KPIs, DAX insights, a
 
 **KEY VISUALS USED :**
 
-  **KPI'S(KEY PERFORMANCE INDICATORS)**
+  **KPIs(KEY PERFORMANCE INDICATORS)**
   
   - Total Sales
   - Average Sales
@@ -83,3 +83,5 @@ Designed to uncover business opportunities through dynamic KPIs, DAX insights, a
 <p align="center">
   <img src="https://github.com/VedantVivek/Blink-It-Dashboard-/raw/main/Snapshot%20of%20the%20dashboard.png" alt="DASHBOARD PREVIEW" width="800"/>
 </p>
+
+📂 [Click here to open Raw Data used folder](./Raw%20Data%20used/)
