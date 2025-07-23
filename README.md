@@ -40,6 +40,7 @@
   - Supports data-driven decisions across marketing, inventory, and operations.
 
 **KEY VISUALS USED :**
+
   **KPI'S(KEY PERFORMANCE INDICATORS)**
   
   - Total Sales
@@ -48,7 +49,8 @@
   - Average Rating
     
   **CHART VISUALS USED**
-    - **Total Sales by Fat Content**
+  
+  - **Total Sales by Fat Content**
       A donut chart that displays the proportion of total sales categorized by the fat content of items. Helps analyze which fat categories drive more revenue.
    
    - **Total Sales by Item Type**
