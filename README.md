@@ -1,8 +1,9 @@
 <h1 align = "center">Blinkit Sales Dashboard using Power BI</h1>
 
-<p align = "center">
-An interactive Power BI dashboard that analyzes Blinkit's sales performance, customer satisfaction, and outlet distribution. <br>
-Designed to uncover business opportunities through dynamic KPIs, DAX insights, and visual storytelling.
+<p align="center">
+  An interactive Power BI dashboard that analyzes Blinkit’s sales performance, customer satisfaction, and outlet distribution.  
+  <br>
+  Designed to uncover business opportunities through dynamic KPIs, DAX insights, and visual storytelling.
 </p>
 
 **SHORT DESCRIPTION :**
