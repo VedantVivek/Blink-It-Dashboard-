@@ -25,38 +25,53 @@ The Blinkit Sales Performance Dashboard provides a visual analytics platform for
 
 **GOAL OF THE DASHBOARD :**
 -To create a visually rich and interactive dashboard that:
- --Tracks total and average sales across outlets
- --Measures performance by item fat content, type, and customer preferences
- --Evaluates outlet effectiveness based on size, location, and age
- --Supports data-driven decisions across marketing, inventory, and operations
+ --Tracks total and average sales across outlets.
+ 
+ --Measures performance by item fat content, type, and customer preferences.
+ 
+ --Evaluates outlet effectiveness based on size, location, and age.
+ 
+ --Supports data-driven decisions across marketing, inventory, and operations.
 
 **KEY VISUALS USED :**
 -KPI'S(KEY PERFORMANCE INDICATORS)
  -Total Sales
+ 
  -Average Sales
+ 
  -Number of Items Sold
+ 
  -Average Customer Rating
 
 **CHART VISUALS USED :**
  -Total Sales by Fat Content
    -A donut chart that displays the proportion of total sales categorized by the fat content of items. Helps analyze which fat categories drive more revenue.
+   
  -Total Sales by Item Type
    -A bar chart that highlights which item types contribute the most to overall sales. Useful for category-level product performance analysis.
+   
  -Fat Content by Outlet for Total Sales
    -A stacked column chart that breaks down sales across outlets based on the fat content of items. Useful for cross-comparing outlets by nutritional categories.
+   
  -Total Sales by Outlet Establishment
    -A line chart showing how sales vary based on the establishment year or type of the outlet. Reveals if older or newer outlets perform better.
+   
  -Sales by Outlet Size
    -A pie or donut chart visualizing how total sales differ across outlet sizes (Small, Medium, High). Helps understand scale-effect on sales performance.
+   
  -Sales by Outlet Location
    -A funnel or map-style chart that displays sales performance by outlet location. Useful for identifying top-performing cities or areas.
+   
  -All Metrics by Outlet Type
    -A matrix visual that combines key metrics like sales, ratings, and item count—segmented by outlet type (Grocery Store, Supermarket, etc.).
    
 **BUSINESS IMPACT AND INSIGHTS :**
    -Inventory Optimization: Understand which item types and fat content levels contribute most to sales.
+   
    -Outlet Strategy: Make informed decisions on outlet expansion or closures based on size, location, and age insights.
+   
    -Marketing Campaigns: Target the right outlet types or customer segments for promotional efforts.
+   
    -Performance Tracking: Quickly identify top-performing outlets and item categories.
 
  **VIEW OF MY DASHBOARD**
