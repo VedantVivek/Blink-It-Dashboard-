@@ -8,7 +8,7 @@
 
 - The Blinkit Sales Performance Dashboard provides a visual analytics platform for understanding item sales trends, outlet performance, customer ratings, and other operational metrics. Built with a focus on business optimization and actionable insights, it supports strategic decisions in retail and supply chain operations.
 
-**TECHONOLOGIES USED TO BUILT :** 
+**TECHONOLOGIES USED TO BUILD :** 
 
 - Power BI Desktop – Main platform for dashboard creation and interactivity.
 - Power Query Editor – Used for data cleaning and transformation before modeling.
@@ -45,19 +45,19 @@
   
   - Total Sales
   - Average Sales
-  - No.Of Items
+  - No. Of Items
   - Average Rating
     
   **CHART VISUALS USED**
   
   - **Total Sales by Fat Content**
-      A donut chart that displays the proportion of total sales categorized by the fat content of items. Helps analyze which fat categories drive more revenue.
+    A donut chart that displays the proportion of total sales categorized by the fat content of items. Helps analyze which fat categories drive more revenue.
    
    - **Total Sales by Item Type**
-      A bar chart that highlights which item types contribute the most to overall sales. Useful for category-level product performance analysis.
+     A bar chart that highlights which item types contribute the most to overall sales. Useful for category-level product performance analysis.
    
    - **Fat Content by Outlet for Total Sales**
-      A stacked column chart that breaks down sales across outlets based on the fat content of items. Useful for cross-comparing outlets by nutritional categories.
+     A stacked column chart that breaks down sales across outlets based on the fat content of items. Useful for cross-comparing outlets by nutritional categories.
    
    - **Total Sales by Outlet Establishment**
      A line chart showing how sales vary based on the establishment year or type of the outlet. Reveals if older or newer outlets perform better.
@@ -79,4 +79,4 @@
    - Performance Tracking: Quickly identify top-performing outlets and item categories.
 
  **VIEW OF MY DASHBOARD**
- ![ALT TEXT](https://github.com/VedantVivek/Blink-It-Dashboard-/blob/main/Snapshot%20of%20the%20dashboard.png)
+ ![DASHBOARD PREVIEW](https://github.com/VedantVivek/Blink-It-Dashboard-/raw/main/Snapshot%20of%20the%20dashboard.png)
