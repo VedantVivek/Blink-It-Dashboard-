@@ -83,5 +83,3 @@ Designed to uncover business opportunities through dynamic KPIs, DAX insights, a
 <p align="center">
   <img src="https://github.com/VedantVivek/Blink-It-Dashboard-/raw/main/Snapshot%20of%20the%20dashboard.png" alt="DASHBOARD PREVIEW" width="800"/>
 </p>
-
-📂 [Click here to open Raw Data used folder](./Raw%20Data/)
