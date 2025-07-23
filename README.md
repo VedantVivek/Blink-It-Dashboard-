@@ -1,4 +1,4 @@
-----------------------------------**BLINK IT SALES PERFORMANCE DASHBOARD**------------------------------------------------
+<h2 align="center"><b>BLINKIT SALES DASHBOARD</b></h2>
 
 **SHORT DESCRIPTION :**
 
@@ -40,12 +40,12 @@
   - Supports data-driven decisions across marketing, inventory, and operations.
 
 **KEY VISUALS USED :**
- 
   **KPI'S(KEY PERFORMANCE INDICATORS)**
-    - Total Sales
-    -Average Sales
-    -No.Of Items
-    -Average Rating
+  
+  - Total Sales
+  - Average Sales
+  - No.Of Items
+  - Average Rating
     
   **CHART VISUALS USED**
     - **Total Sales by Fat Content**
@@ -70,6 +70,7 @@
      A matrix visual that combines key metrics like sales, ratings, and item count—segmented by outlet type (Grocery Store, Supermarket, etc.).
    
 **BUSINESS IMPACT AND INSIGHTS :**
+
    - Inventory Optimization: Understand which item types and fat content levels contribute most to sales.
    - Outlet Strategy: Make informed decisions on outlet expansion or closures based on size, location, and age insights.
    - Marketing Campaigns: Target the right outlet types or customer segments for promotional efforts.
